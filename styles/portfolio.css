@@ -233,6 +233,9 @@ footer input[type="text"], footer input[type="email"], footer textarea {
     .btn-primary{
         margin-bottom: 20px;
     }
+    .benner-title{
+        font-size: medium;
+    }
 }
 @media screen and (min-width : 576px) and (max-width: 992px) {
     .benner{
